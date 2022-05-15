@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dell\source\repos\final\final\functions.h(906): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\final\final\functions.h(1342): warning C4018: '<': signed/unsigned mismatch
+  Final.vcxproj -> C:\Users\dell\source\repos\Final\Debug\Final.exe
